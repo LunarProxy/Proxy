@@ -1,5 +1,6 @@
 # Proxy
 
+# NOTICE MAKE SURE THE PROXY VPS/PC IS DIFFERENT TO THE BACKEND VPS/PC
 
 # Installation / Setup
 - git clone https://github.com/LunarProxy/Proxy
