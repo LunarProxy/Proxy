@@ -78,7 +78,7 @@ func main() {
 
 		sc := new(Connection)
     sc.Socket = ws
-
+		// Change 127.0.0.1 to your backend ip
 		ws2, _, err := d.Dial("ws://127.0.0.1:19486", header)
 		if err != nil {
 			log.Println(err)
